@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416845303939",
+    "project_id": "iamm-b226f",
+    "storage_bucket": "iamm-b226f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416845303939:android:329a3bc95b30fcc53a0bb6",
+        "android_client_info": {
+          "package_name": "com.example.iam_douaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIu4zkBsbinCRFwmNBirMEEp49vLbam9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
